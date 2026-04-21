@@ -43,7 +43,7 @@ Software Engineer focused on building reliable backend systems, modern web apps,
 
 ---
 
-## �� Experience
+## Experience
 
 - Software Engineer at [ibuQa](https://www.ibuqa.io/)
 
