@@ -1,56 +1,56 @@
-## Hi there, I'm Brian 👋
+# Hi, I'm Brian Njuguna 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brian-njuguna-37535221a/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/njuguna-brian/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=mail)](mailto:njugunabrian31@gmail.com)
+Software Engineer focused on building reliable backend systems, modern web apps, and mobile experiences.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian%20Njuguna-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brian-njuguna-37535221a/)
+[![Email](https://img.shields.io/badge/Email-njugunabrian31%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njugunabrian31@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@njuguna--brian-black?style=for-the-badge&logo=github)](https://github.com/njuguna-brian)
 
-Experienced and passionate software developer adept at crafting robust and scalable applications. I thrive on continuous learning, embracing new technologies, and adopting best practices to stay ahead in the ever-evolving tech landscape. My passion lies in solving complex challenges and delivering efficient solutions. I uphold the principles of writing clean, maintainable code and excel in collaborative teamwork to achieve project objectives. Let's collaborate and create something extraordinary together!
+---
 
-🔧 Skills: 
-- 💻 Languages: 
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="24"/> 
-- 🚀 Frameworks:
-  <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-%230D96F6.svg?style=for-the-badge&logo=fastapi&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/Celery-%2348B648.svg?style=for-the-badge&logo=celery&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" height="24" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" height="24"/>
-- ☁️ Infrastructure: 
-  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" height="24"/>
-- 🗄️ Databases: 
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="24"/> &nbsp;
+## 🧠 Core Skills (from my repositories)
 
-- 💾 Version Control:
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" height="24"/> &nbsp;
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height="24"/>
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-  
-💼 Experience:
-- Software Engineer at [ibuQa](https://www.ibuqa.io/).
+### Frameworks & Platforms
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Android](https://img.shields.io/badge/Android_Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+### Engineering Practices & Tooling
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-0A66C2?style=for-the-badge)
+![Testing](https://img.shields.io/badge/Testing-TDD%20%26%20JS%20Testing-5A67D8?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-Documentation-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-## 🔥 My Stats
+---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=njuguna-brian&theme=dark&background=000000)](https://git.io/streak-stats)
+## 🚀 Featured Work
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njuguna-brian&layout=compact&theme=vision-friendly-dark)](https://github.com/njuguna-brian/github-readme-stats)
+- **Java + Microservices**: [service-registry](https://github.com/njuguna-brian/service-registry), [job-microservice](https://github.com/njuguna-brian/job-microservice), [company-microservice](https://github.com/njuguna-brian/company-microservice), [review-microservice](https://github.com/njuguna-brian/review-microservice)
+- **Python**: [python-graphql](https://github.com/njuguna-brian/python-graphql), [django-next](https://github.com/njuguna-brian/django-next), [Test-Driven](https://github.com/njuguna-brian/Test-Driven)
+- **TypeScript / JavaScript Web Apps**: [carepulse](https://github.com/njuguna-brian/carepulse), [dropbox-clone](https://github.com/njuguna-brian/dropbox-clone), [news-app](https://github.com/njuguna-brian/news-app), [twitter-clone](https://github.com/njuguna-brian/twitter-clone), [next-website](https://github.com/njuguna-brian/next-website)
+- **Kotlin / Android**: [CryptoTracker](https://github.com/njuguna-brian/CryptoTracker), [NewsApp](https://github.com/njuguna-brian/NewsApp), [woof](https://github.com/njuguna-brian/woof)
+
+---
+
+## �� Experience
+
+- Software Engineer at [ibuQa](https://www.ibuqa.io/)
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=njuguna-brian&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njuguna-brian&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
